@@ -8,3 +8,7 @@ body{
 h1{
     color: aliceblue;
 }
+image{
+    align-items: center;
+    border: 1px solid grey;
+}
